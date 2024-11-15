@@ -8,13 +8,17 @@
 
 En las primeras civilizaciones, las transacciones se basaban en el trueque, donde bienes y servicios se intercambiaban directamente. Sin embargo, este sistema presentaba limitaciones, como la necesidad de coincidencia entre las necesidades de los involucrados.
 
-### Oro
+### Metales preciosos
 
-Con el tiempo, los metales preciosos, especialmente el *oro*, comenzaron a ser utilizados como medio de intercambio. El oro era altamente valorado por su **escasez**, **durabilidad** y **facilidad de transporte**. Su uso estandarizado como moneda marcó un avance importante en las economías, permitiendo el comercio a mayor escala.
+![Metales preciosos](./metales_preciosos.md)
+
+Con el tiempo, los metales preciosos, especialmente el *oro*, comenzaron a ser utilizados como medio de intercambio. El oro era altamente valorado por su **escasez**, **durabilidad**, **facilidad de transporte** y **divisibilidad**. Su uso **estandarizado** y **universal** como moneda marcó un avance importante en las economías, permitiendo el comercio a mayor escala.
 
 ### Effectivo
 
-Posteriormente, surgió el uso de dinero en papel como representación del valor de los metales preciosos. Este cambio fue impulsado por la necesidad de un sistema más práctico para manejar grandes cantidades de riqueza. Inicialmente, los billetes representaban depósitos de oro o plata almacenados en instituciones confiables, lo que facilitaba la **seguridad** y el transporte.
+Posteriormente, surgió el uso de dinero en papel, o effectivo, como representación del valor de los metales preciosos. Este cambio fue impulsado por la necesidad de un sistema más práctico para manejar grandes cantidades de riqueza. Inicialmente, los billetes representaban depósitos de oro o plata almacenados en instituciones confiables, lo que facilitaba la **seguridad** y el transporte.
+
+### Bancos
 
 Con el desarrollo de los bancos, nació el concepto de banca moderna. Los bancos comenzaron a emitir billetes respaldados por sus depósitos, y gradualmente, el sistema evolucionó hacia la banca de reserva fraccional. En este modelo, los bancos solo guardan una fracción de los depósitos como reserva, utilizando el resto para otorgar préstamos. Esto amplió significativamente la oferta monetaria y permitió un crecimiento económico más dinámico, aunque también introdujo riesgos como las crisis financieras.
 
