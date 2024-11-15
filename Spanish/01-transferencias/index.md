@@ -30,13 +30,17 @@ Las cuentas bancarias surgieron como una solución práctica y segura frente a l
 
 ![Panico bancario](./panico_bancario.jpg)
 
-Gradualmente, el sistema evolucionó hacia la banca de reserva fraccional. En este modelo, los bancos solo guardan una fracción de los depósitos como reserva, utilizando el resto para otorgar préstamos generando intereses. Esto permitió un crecimiento económico más dinámico, pero introdujo riesgos como los pánicos bancarios.
+Gradualmente, el sistema evolucionó hacia la banca de reserva fraccional. En este modelo, los bancos solo guardan una fracción de los depósitos como reserva, utilizando el resto para otorgar préstamos generando intereses. Esto permitió un crecimiento económico más dinámico, pero introdujo riesgos como los **pánicos bancarios**.
 
 Los pánicos bancarios ocurren cuando un gran número de clientes retiran simultáneamente sus depósitos debido al temor de que el banco no tenga suficiente liquidez para cumplir con sus obligaciones.
 
 ### Bancos centrales
 
-Los primeros bancos centrales se formaron para regular el sistema de reserva fraccionaria y reducir la incidencia de crisis bancarias. En un sistema donde los bancos solo mantienen una fracción de los depósitos en reserva, era crucial contar con una institución que pudiera supervisar las prácticas bancarias y actuar como prestamista de última instancia. Esto ayudaba a mantener la estabilidad financiera, prevenir pánicos bancarios y garantizar la confianza del público en el sistema monetario.
+![Banco central de Suecia](./sveriges_riksbank.jpg)
+
+El primer banco central, el banco central de Suecia, se formo para regular el sistema de reserva fraccionaria y reducir la incidencia de crisis bancarias. En un sistema donde los bancos solo mantienen una fracción de los depósitos en reserva, era crucial contar con una institución que pudiera supervisar las prácticas bancarias y actuar como prestamista de última instancia. Esto ayudaba a mantener la estabilidad financiera, prevenir pánicos bancarios y garantizar la confianza del público en el sistema monetario.
+
+Los bancos centrales gradualmente monopolizaron la emisión de billetes para aumentar la confianza en la moneda. Antes de esto, muchos bancos privados emitían sus propios billetes, lo que generaba incertidumbre sobre su valor y aceptación. Para resolver este problema, los gobiernos otorgaron a los bancos centrales el derecho exclusivo de emitir billetes, garantizando así una moneda uniforme y respaldada por el Estado. Esto también permitió luchar de manera más efectiva contra la falsificación.
 
 ### SPEI
 
