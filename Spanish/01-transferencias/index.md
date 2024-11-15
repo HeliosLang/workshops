@@ -10,7 +10,7 @@ En las primeras civilizaciones, las transacciones se basaban en el trueque, dond
 
 ### Metales preciosos
 
-![Metales preciosos](./metales_preciosos.md)
+![Metales preciosos](./metales_preciosos.jpg)
 
 Con el tiempo, los metales preciosos, especialmente el *oro*, comenzaron a ser utilizados como medio de intercambio. El oro era altamente valorado por su **escasez**, **durabilidad**, **facilidad de transporte** y **divisibilidad**. Su uso **estandarizado** y **universal** como moneda marcó un avance importante en las economías, permitiendo el comercio a mayor escala.
 
