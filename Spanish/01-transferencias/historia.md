@@ -10,13 +10,13 @@ En las primeras civilizaciones, las transacciones se basaban en el trueque, dond
 
 ![Metales preciosos](../../images/precious_metals.jpg)
 
-Con el tiempo, los metales preciosos, especialmente el *oro*, comenzaron a ser utilizados como medio de intercambio. El oro era altamente valorado por su **escasez**, **durabilidad**, **facilidad de transporte** y **divisibilidad**. Su uso **estandarizado** y **universal** como moneda marcó un avance importante en las economías, permitiendo el comercio a mayor escala.
+Con el tiempo, los metales preciosos, especialmente el *oro*, comenzaron a ser utilizados como medio de intercambio. El oro era altamente valorado por su **escasez**, **durabilidad** y **facilidad de transporte**. Su uso **estandarizado** y **universal** como moneda marcó un avance importante en las economías, permitiendo el comercio a mayor escala.
 
-## 3. Effectivo
+## 3. Efectivo
 
 ![Primeros billetes Chinos](../../images/early_paper_money.jpg)
 
-Posteriormente, surgió el uso de dinero en papel, o effectivo, como representación del valor de los metales preciosos. Este cambio fue impulsado por la necesidad de un sistema más práctico para manejar grandes cantidades de riqueza. Inicialmente, los billetes representaban depósitos de oro o plata almacenados en instituciones confiables, lo que facilitaba la **seguridad** y el transporte.
+Posteriormente, surgió el uso de dinero en papel, o efectivo, como representación del valor de los metales preciosos. Este cambio fue impulsado por la necesidad de un sistema más práctico para manejar grandes cantidades de riqueza. Inicialmente, los billetes representaban depósitos de oro o plata almacenados en instituciones confiables, lo que facilitaba la **seguridad** y el transporte.
 
 ## 4. Cuentas bancarias
 

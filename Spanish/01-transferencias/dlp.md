@@ -60,7 +60,7 @@ En el caso de Cardano se usa Ed25519. Additiones abstractos en una curve ellipti
 Se calculan asi:
 ```
 x_3 = (x_1*y_2 + x_2*y_1)/(1 + D*x1*x2*y1*y2)
-y_3 = (y_1*y_2 - x_1*x_2)/(1 - D*x1*x2*y1*y2
+y_3 = (y_1*y_2 - x_1*x_2)/(1 - D*x1*x2*y1*y2)
 ```
 
 Con:
