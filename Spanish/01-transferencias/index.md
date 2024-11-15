@@ -2,9 +2,9 @@
 
 ## Historia del dinero y los sistemas de pago
 
-### Truque de bienes
+### Trueque de bienes
 
-![Truque de bienes en Niger](./truque_de_bienes.jpg)
+![Trueque de bienes en Niger](./trueque_de_bienes.jpg)
 
 En las primeras civilizaciones, las transacciones se basaban en el trueque, donde bienes y servicios se intercambiaban directamente. Sin embargo, este sistema presentaba limitaciones, como la necesidad de coincidencia entre las necesidades de los involucrados.
 
