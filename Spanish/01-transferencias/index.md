@@ -1,55 +1,13 @@
 # Taller 1: transferencias
 
-## Historia de los sistemas de pago
+## 1. Introduccion
 
-### Trueque de bienes
+El dinero y los sistemas de pago han experimentado una larga evolución desde el amanecer de la civilización (ver [historia](./historia.md)). Las redes blockchain representan el siguiente paso en esta evolución.
 
-![Trueque de bienes en Niger](./trueque_de_bienes.jpg)
+En este taller se van a realisar unos pagos en el red de Cardano, usando Javascript y el framework de Helios.
 
-En las primeras civilizaciones, las transacciones se basaban en el trueque, donde bienes y servicios se intercambiaban directamente. Sin embargo, este sistema presentaba limitaciones, como la necesidad de coincidencia entre las necesidades de los involucrados.
+## 2. Crear direccion para pagos
 
-### Metales preciosos
+En Cardano, las direcciones más básicas están controladas por un par de [claves pública-privada](./dlp.md). Solo las transacciones firmadas por dicho par de claves pueden gastar los UTxOs de esa dirección.
 
-![Metales preciosos](./metales_preciosos.jpg)
-
-Con el tiempo, los metales preciosos, especialmente el *oro*, comenzaron a ser utilizados como medio de intercambio. El oro era altamente valorado por su **escasez**, **durabilidad**, **facilidad de transporte** y **divisibilidad**. Su uso **estandarizado** y **universal** como moneda marcó un avance importante en las economías, permitiendo el comercio a mayor escala.
-
-### Effectivo
-
-![Primeros billetes Chinos](./primeros_billetes.jpg)
-
-Posteriormente, surgió el uso de dinero en papel, o effectivo, como representación del valor de los metales preciosos. Este cambio fue impulsado por la necesidad de un sistema más práctico para manejar grandes cantidades de riqueza. Inicialmente, los billetes representaban depósitos de oro o plata almacenados en instituciones confiables, lo que facilitaba la **seguridad** y el transporte.
-
-### Cuentas bancarias
-
-![Diario bancario](./diario_bancario.jpg)
-
-Las cuentas bancarias surgieron como una solución práctica y segura frente a los riesgos y limitaciones de guardar todo el dinero en efectivo. Mantener grandes cantidades de efectivo implicaba un alto riesgo de robo, pérdida o deterioro. Además, el efectivo no ofrecía ninguna forma de generar interés o crecer con el tiempo. Los bancos comenzaron a ofrecer cuentas para proporcionar un lugar seguro donde las personas pudieran depositar su dinero, con la ventaja adicional de permitir transacciones más cómodas y registros claros.
-
-### Reserva fraccional
-
-![Panico bancario](./panico_bancario.jpg)
-
-Gradualmente, el sistema evolucionó hacia la banca de reserva fraccional. En este modelo, los bancos solo guardan una fracción de los depósitos como reserva, utilizando el resto para otorgar préstamos generando intereses. Esto permitió un crecimiento económico más dinámico, pero introdujo riesgos como los **pánicos bancarios**.
-
-Los pánicos bancarios ocurren cuando un gran número de clientes retiran simultáneamente sus depósitos debido al temor de que el banco no tenga suficiente liquidez para cumplir con sus obligaciones.
-
-### Bancos centrales
-
-![Banco central de Suecia](./sveriges_riksbank.jpg)
-
-El primer banco central, el banco central de Suecia, se formo para regular el sistema de reserva fraccionaria y reducir la incidencia de crisis bancarias. En un sistema donde los bancos solo mantienen una fracción de los depósitos en reserva, era crucial contar con una institución que pudiera supervisar las prácticas bancarias y actuar como prestamista de última instancia. Esto ayudaba a mantener la estabilidad financiera, prevenir pánicos bancarios y garantizar la **confianza** del público en el sistema monetario.
-
-Los bancos centrales gradualmente monopolizaron la emisión de billetes para aumentar la confianza en la moneda. Antes de esto, muchos bancos privados emitían sus propios billetes, lo que generaba incertidumbre sobre su valor y aceptación. Para resolver este problema, los gobiernos otorgaron a los bancos centrales el derecho exclusivo de emitir billetes, garantizando así una moneda uniforme y respaldada por el Estado. Esto también permitió luchar de manera más efectiva contra la **falsificación**.
-
-### Patrón oro
-
-![Precio de oro](./precio_de_oro.png)
-
-El patrón oro terminó debido a la dificultad de mantener **precios estables** basados en oro. Aunque el oro proporcionaba una base sólida para el valor de la moneda, su suministro estaba limitado y no podía ajustarse con rapidez a las necesidades económicas cambiantes. Durante períodos de expansión económica o crisis, la oferta de oro no podía seguir el ritmo de la demanda de dinero, lo que generaba deflación o inflación. Esta rigidez en la oferta monetaria dificultaba la estabilidad de los precios, llevando a muchos países a abandonar el patrón oro y adoptar sistemas monetarios más flexibles.
-
-### SPEI
-
-En el siglo XXI, los avances tecnológicos revolucionaron aún más los sistemas de pago. En México, uno de los ejemplos más destacados es el sistema SPEI (Sistema de Pagos Electrónicos Interbancarios), desarrollado por el Banco de México. SPEI permite transferencias electrónicas en tiempo real entre cuentas bancarias, proporcionando una herramienta rápida, segura y eficiente para la economía moderna. Este sistema ha facilitado tanto las operaciones comerciales como las transacciones cotidianas, marcando un nuevo capítulo en la historia de los pagos.
-
-De esta manera, el dinero ha evolucionado desde el trueque y el oro hasta complejos sistemas digitales, reflejando la continua adaptación de las sociedades a las necesidades económicas.
+Vamos a generar
