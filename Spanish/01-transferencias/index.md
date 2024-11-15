@@ -38,9 +38,15 @@ Los pánicos bancarios ocurren cuando un gran número de clientes retiran simult
 
 ![Banco central de Suecia](./sveriges_riksbank.jpg)
 
-El primer banco central, el banco central de Suecia, se formo para regular el sistema de reserva fraccionaria y reducir la incidencia de crisis bancarias. En un sistema donde los bancos solo mantienen una fracción de los depósitos en reserva, era crucial contar con una institución que pudiera supervisar las prácticas bancarias y actuar como prestamista de última instancia. Esto ayudaba a mantener la estabilidad financiera, prevenir pánicos bancarios y garantizar la confianza del público en el sistema monetario.
+El primer banco central, el banco central de Suecia, se formo para regular el sistema de reserva fraccionaria y reducir la incidencia de crisis bancarias. En un sistema donde los bancos solo mantienen una fracción de los depósitos en reserva, era crucial contar con una institución que pudiera supervisar las prácticas bancarias y actuar como prestamista de última instancia. Esto ayudaba a mantener la estabilidad financiera, prevenir pánicos bancarios y garantizar la **confianza** del público en el sistema monetario.
 
-Los bancos centrales gradualmente monopolizaron la emisión de billetes para aumentar la confianza en la moneda. Antes de esto, muchos bancos privados emitían sus propios billetes, lo que generaba incertidumbre sobre su valor y aceptación. Para resolver este problema, los gobiernos otorgaron a los bancos centrales el derecho exclusivo de emitir billetes, garantizando así una moneda uniforme y respaldada por el Estado. Esto también permitió luchar de manera más efectiva contra la falsificación.
+Los bancos centrales gradualmente monopolizaron la emisión de billetes para aumentar la confianza en la moneda. Antes de esto, muchos bancos privados emitían sus propios billetes, lo que generaba incertidumbre sobre su valor y aceptación. Para resolver este problema, los gobiernos otorgaron a los bancos centrales el derecho exclusivo de emitir billetes, garantizando así una moneda uniforme y respaldada por el Estado. Esto también permitió luchar de manera más efectiva contra la **falsificación**.
+
+### Patrón oro
+
+![Precio de oro](./precio_de_oro.png)
+
+El patrón oro terminó debido a la dificultad de mantener **precios estables** basados en oro. Aunque el oro proporcionaba una base sólida para el valor de la moneda, su suministro estaba limitado y no podía ajustarse con rapidez a las necesidades económicas cambiantes. Durante períodos de expansión económica o crisis, la oferta de oro no podía seguir el ritmo de la demanda de dinero, lo que generaba deflación o inflación. Esta rigidez en la oferta monetaria dificultaba la estabilidad de los precios, llevando a muchos países a abandonar el patrón oro y adoptar sistemas monetarios más flexibles.
 
 ### SPEI
 
