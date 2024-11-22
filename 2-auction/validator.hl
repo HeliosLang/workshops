@@ -1,0 +1,13 @@
+spending auction
+
+import { tx } from ScriptContext
+import { calc_value_sent_to } from utils
+
+enum AuctionState {  
+    TODO
+}
+
+func main(_state: AuctionState, _) -> () {
+    // TODO
+    ()
+}

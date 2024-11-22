@@ -1,0 +1,13 @@
+module utils
+
+import { tx } from ScriptContext
+
+func calc_value_sent_to(address: Address) -> Value {
+    tx.outputs.fold((sum: Value, output: TxOutput) -> {
+        if (output.address == address) {
+            sum + output.value
+        } else {
+            sum
+        }
+    }, Value::ZERO)
+}
